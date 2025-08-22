@@ -1,0 +1,12 @@
+# Go
+bin/
+dist/
+*.out
+*.log
+coverage/
+# Env
+.env
+*.local
+# Others
+.idea/
+.vscode/
