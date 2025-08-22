@@ -3,6 +3,7 @@ module github.com/mis-hashemi/mahdaad-test
 go 1.24.6
 
 require (
+	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/knadh/koanf/parsers/yaml v1.1.0
 	github.com/knadh/koanf/providers/env v1.1.0
 	github.com/knadh/koanf/providers/file v1.2.0
